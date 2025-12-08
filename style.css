@@ -1,0 +1,38 @@
+#nav {
+    background-color: #212529;
+}
+.nav-item ul     {
+   text-decoration: none;
+    color: white !important;
+}
+.card-img-top {
+    border-radius: 50px;
+    padding: 20px;
+}
+body {
+    background-color: #f9f6f2;
+}
+.card {
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    overflow: hidden;
+}
+
+.card-body {
+    padding:15px;
+    
+}
+.btn-primary {
+    border-radius: 20px;
+ width: 110px;
+}
+.btn-primary:hover {
+      background-color: #212529;
+}
+.text-center {
+    color: #2C3E50;
+}
+.bg-dark {
+    padding-bottom: 10px;
+}
+
